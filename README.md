@@ -12,8 +12,8 @@
 ---
 
 🌱 I’m currently learning Machine Learning and Generative AI.
-- 🔭 I’m currently working on Projects.
--  👯 I’m looking to collaborate on Open Source Projects.
+🔭 I’m currently working on Projects.
+👯 I’m looking to collaborate on Open Source Projects.
 
 ## 🛠️ Tech Stack
 
@@ -43,6 +43,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansheeverma&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghstats.dev/api/top-langs?username=divyansheeverma&theme=tokyonight"  />
-</p>
+</p> -->
