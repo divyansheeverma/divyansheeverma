@@ -11,18 +11,9 @@
 <h1 align="center">Hi 👋, I'm Divyanshee Verma</h1>
 ---
 
-
--->
 🌱 I’m currently learning Machine Learning and Generative AI.
 - 🔭 I’m currently working on Projects.
 -  👯 I’m looking to collaborate on Open Source Projects.
-
-## 🧠 About Me
-
-- Solved **1000+ DSA problems** across platforms (Codeforces, LeetCode, CodeChef)
-- Max rating **2707 (Top ~4%)** on coding ninja
-- 
----
 
 ## 🛠️ Tech Stack
 
@@ -53,5 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansheeverma&layout=compact&theme=tokyonight" />
+  <img src="https://ghstats.dev/api/top-langs?username=divyansheeverma&theme=tokyonight"  />
 </p>
