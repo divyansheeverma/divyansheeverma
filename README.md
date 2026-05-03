@@ -26,26 +26,13 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Development
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,nodejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,mongodb,mysql,postgresql,git,github" />
 </p>
 
-### 🗄️ Database & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<p align="center">
+  NumPy • Pandas • Scikit-learn • Matplotlib • FastAPI • Computer Vision • RAG (LLM Integration) • OOPs
 </p>
-
-### 📊 Data & ML
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib" />
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
-</p
-
   
 ## 📫 Connect With Me
 
@@ -59,12 +46,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyansheeverma&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansheeverma&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansheeverma&layout=compact&theme=tokyonight" />
 </p>
-
----
-
