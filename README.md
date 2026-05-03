@@ -45,7 +45,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyansheeverma&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyansheeverma&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
