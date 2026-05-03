@@ -5,9 +5,10 @@
 📍 India  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=1000%2B+DSA+Problems+Solved;IIT+Patna+Graduate;Backend+%26+Data+Enthusiast;Open+to+Opportunities&center=true&width=500&height=45">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Divyanshee Verma</h1>
 ---
 
 
@@ -22,6 +23,28 @@
 - Max rating **2707 (Top ~4%)** on coding ninja
 - 
 ---
+
+## 🛠️ Tech Stack
+
+### 💻 Development
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,nodejs" />
+</p>
+
+### 🗄️ Database & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 📊 Data & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib" />
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
+</p
 
   
 ## 📫 Connect With Me
