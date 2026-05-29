@@ -39,10 +39,3 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyansheeverma&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansheeverma&theme=tokyonight" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://ghstats.dev/api/top-langs?username=divyansheeverma&theme=tokyonight"  />
-</p> -->
